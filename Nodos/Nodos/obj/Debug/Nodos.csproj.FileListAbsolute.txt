@@ -1,0 +1,7 @@
+C:\Users\Joel\Desktop\Nodos\Nodos\bin\Debug\Nodos.exe.config
+C:\Users\Joel\Desktop\Nodos\Nodos\bin\Debug\Nodos.exe
+C:\Users\Joel\Desktop\Nodos\Nodos\bin\Debug\Nodos.pdb
+C:\Users\Joel\Desktop\Nodos\Nodos\obj\Debug\Nodos.csproj.AssemblyReference.cache
+C:\Users\Joel\Desktop\Nodos\Nodos\obj\Debug\Nodos.csproj.CoreCompileInputs.cache
+C:\Users\Joel\Desktop\Nodos\Nodos\obj\Debug\Nodos.exe
+C:\Users\Joel\Desktop\Nodos\Nodos\obj\Debug\Nodos.pdb
